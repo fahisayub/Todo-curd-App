@@ -1,0 +1,22 @@
+# Todos
+- [ ] install packages
+    - [ ] redux
+    - [ ] react-redux
+    - [ ] react-router-dom@6
+    - [ ] redux-thunk
+    - [ ] axios
+    
+- [ ] Login / Register
+    - [ ] action types
+    - [ ] action
+    - [ ] reducer
+    - [ ] store
+- [ ] protected route
+- [ ] sidebar
+- [ ] showdetails from api moker
+- [ ] logout in sidebar
+- [ ] new task page resuse it for edit if can
+- [ ] summary page
+- [ ] tags office,personal,other etc..
+- [ ] have subtasks ,description,title,status
+- [ ] able to catogarise todo,inprogress,done
